@@ -8,3 +8,6 @@
 
 **插件地址**   
 https://plugins.ptms.ink/plugin/chemdah/service
+
+**插件统计**  
+<img src="https://bstats.org/signatures/bukkit/chemdah.svg" height=200/>
